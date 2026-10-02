@@ -1,1 +1,74 @@
+/* 老師教的 highlight class */
+.highlight {
+    color: red;
+}
 
+
+/* 整個網頁 */
+body {
+    background-color: white;
+    font-family: "Microsoft JhengHei", "PingFang TC", sans-serif;
+    margin: 8px;
+}
+
+
+/* 第一層標題 */
+h1 {
+    color: black;
+}
+
+
+/* 第二層標題 */
+h2 {
+    color: blue;
+}
+
+
+/* 第三層標題 */
+h3 {
+    color: limegreen;
+}
+
+
+/* 超連結 */
+a {
+    color: blue;
+}
+
+
+/* 滑鼠移到超連結上 */
+a:hover {
+    color: red;
+}
+
+
+/* 程式碼 */
+pre {
+    font-family: monospace;
+}
+
+
+/* 分隔線 */
+hr {
+    border: 0;
+    border-top: 1px solid gray;
+}
+
+
+/* 圖片 */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* 圖片說明 */
+figcaption {
+    font-size: 14px;
+}
+
+
+/* 頁尾 */
+footer {
+    margin-top: 10px;
+}
